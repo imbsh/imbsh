@@ -1,6 +1,6 @@
 ## 반갑습니다! 👋
 
-
+<img src="https://img.shields.io/badge/Github Pages-222222?style=plastic&logo=github&logoColor=white"/>
 
 <!--
 **imbsh/imbsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
