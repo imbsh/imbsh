@@ -1,6 +1,6 @@
 ## 반갑습니다! 👋
 
-![imbsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbsh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github)
+![imbsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=imbsh&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github)
 
 GitHub Pages : 
 <span>
